@@ -70,6 +70,24 @@
     arr[i] = arr[i + 1]
     arr[i + 1] = arr[i]
 
+    *********************************************** 
+    #the old code did not work as 
+    # arr[i] = arr[i + 1] This cancelled each other out so they both then equalled 19
+    # arr[i + 1] = arr[i]
+
+    arr = [5, 22, 29, 39, 19, 51, 78, 96, 84]
+    i = 0
+    while (i < arr.size - 1) and (arr[i] < arr[i + 1])
+        i = i + 1 end
+    puts i
+    other =  arr[i] #setting a variable to equal index 3 which is 39 
+    p arr[i] = arr[i + 1] # 19 - then swopping arr[3] to equal arr[3+1] = 19 (previously 4 index)
+    p arr[i + 1] = other # 39 - then changing arr[4] to equal other variable to it now equals 39
+
+    #the new array is formed with the index 3 and 4 values swopped. 
+    p arr  # [5, 22, 29, 19, 39, 51, 78, 96, 84]
+
+
 ## Q14 Demonstrate your algorithmic thinking through completing the following two tasks, in order:
   ### i. Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive). Your flowchart should make use of standard conventions for flowcharts to indicate processes, tasks, actions, or operations  
   ### ii. Write pseudocode for the process outlined in your flowchart
