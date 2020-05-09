@@ -29,9 +29,27 @@ With many Companies like Apple and Google expanding their computer product range
 
 ## Q2 Define the features of the following technologies that are essential in terms of the development of the internet:
   ### - packets
+  LINK 1 https://www.britannica.com/technology/Internet#ref733575
+  LINK 2 https://www.britannica.com/topic/ARPANET/A-packet-of-data
+  A packet is a small amount of data sent over a network. In the early history of the internet, there was a need to share information over vast distances without the use of individual phone connections between each computer. “Packet Switching” satisfied this need as these packets can travel independently over any circuit to the pointed destination. Packets are simply small collections of digital information broken off from a larger source, transmitted separately on the route and accurately reassembled by the modem on the other side. (link 1 and 2)
+
   ### - IP addresses (IPv4 and IPv6)
+  LINK 1 https://www.guru99.com/difference-ipv4-vs-ipv6.html
+  LINK 2 https://www.iana.org/numbers
+  Internet Protocol Address also known as IP address is a numerical label used to identify each computer on the Internet. IPv4 was deployed in 1983 and maintains a 32-bit protocol standard and is still the most commonly used version. IPv4 addresses are 32-bit numbers expressed as 4 octets in “dotted decimal” system. IPv6 was deployed in 1999 to fulfil the need for more Internet addresses and are 128-bit numbers conventionally separated by colons.
+
   ### - routers and routing
+  LINK1 https://searchnetworking.techtarget.com/definition/router
+  LINK2 https://www.techopedia.com/definition/13207/routing
+  The initial idea for a router, which at first was called a gateway (Link 3), was the notion of connecting different computer networks. A router is a device for networking, essentially it a small computer itself, it analyses the header of the data packet destination IP address, calculates the best way for it to reach the destination then forwards the data packet between different computer networks.
+  Routing is the establishing of the routes that the data packets take to their particular destination, done by the router checking its routing table which is marked with a set of routing rules (algorithms and protocols) used to determine the most optimal path to reach the destination. 
+
   ### - domains and DNS
+  Link 1 https://www.britannica.com/technology/domain-name
+  Link 2  https://www.crazydomains.com.au/learn/components-domain-name/
+  A Domain Name is an identifying ‘web address’ for any business, organisation or individual used to develop a unique online presence and identity. Once registered, a domain name is unique and cannot be copied. It is mapped to an IP address; however, two or more domain names can be mapped to the same IP address. The domain name structures work in levels. The Second-level Domain (SLD) is the unique customisable portion of the domain, for example it could be a name or organisation. The Top-level Domain (TLD) is the domain extension found at the end of the name, these are allocated by ICANN (the organisation that manages the internet). The most popular categories of the TLD are Country-code top-level domain (ccTLD), which are country specific extensions such as .au or .uk, and the Generic top-level domain (gTLD), which depict the kind of website created such as commercial (.com) or organisation (.org). These domain name levels form a structure resulting in a Uniform Resource Locator (URL), which essentially is the produced web address.
+  The Domain Name System (DNS) is essentially a phonebook of the internet, it contains the domain name and linked IP addresses for the internet. It a large database so that remembers all this information so we as humans do not have to, it translates the domain name to the attached IP address which enables our web browsers to load the desired internet resource.
+
 
 ### Explain how each technology has contributed to the development of the internet.
 
@@ -39,37 +57,133 @@ With many Companies like Apple and Google expanding their computer product range
 
 ## Q3 Define the features of the following technologies that are essential in terms of the development of the internet:
   ### - TCP
+  LINK 1 https://www.britannica.com/technology/Internet
+  LINK2 https://www.britannica.com/technology/TCP-IP
+
+  Originally developed in the 1970’s TCP/IP (Transmission Control Protocol/Internet Protocol) protocol suite, provides end-to-end connectivity specifying how different types of machines on networks around the world to route and assemble data packets (Link 1). Whilst IP is the protocol of dealing with packets, the TCP is what enables two hosts to establish a gateway and exchange data packets. TCP is responsible for how the data is collected and reassembled. IP is what makes sure the packets are sent to the right destination. (Link 2)
+
   ### - HTTP and HTTPS
+  LINK 1 https://www.nginx.com/resources/glossary/http/
+  LINK 2 https://www.webopedia.com/TERM/H/HTTP.html
+  LINK 3 https://www.ssl.com/faqs/what-is-https/
+  LINK 4 https://www.websecurity.digicert.com/en/au/security-topics/what-is-ssl-tls-https
+
+  Usually the first exposure we get to Hypertext Transfer Protocol (HTTP) is we see it at the beginning of our web address; however, it is an important fragment of our everyday internet use. HTTP is the primary protocol or procedure used by the World Wide Web for the transmission of information across the internet. This exchange is between a client (web browser) and a web server. The information exchanged is done in the form of Hypertext documents which uses hyperlinks to link different content that a user can jump to. HTTP is what defines how these hypertext documents are formatted and transmitted.
+  HTTPS (Hypertext Transfer Protocol secure) is the secure version of the HTTP protocol. HTTPS uses Secure Sockets Layer (SSL) and its successor Transport Layer Security (TLS), which in short is the technology for keeping an internet connection secure by encoding and authenticating the link. So, when we see HTTPS in the URL is it a website secured by an SSL certificate.
+    
   ### - web browsers (requests, rendering and developer tools)
+  LINK 1 https://www.browserstack.com/guide/browser-rendering-engine
+  LINK 2 https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/
+  LINK 4 https://developers.google.com/web/tools/chrome-devtools
+  LINK 5 https://www.codecademy.com/articles/http-requests
+  LINK 6 https://www.lifewire.com/web-browser-developer-tools-3988965
+
+
+  A web browser is probably one of the most universally recognized terms. A web browser is a software application which takes you anywhere on the internet, used to access and display websites on your computer or mobile device. This is done via a web address, technically called and Uniform Resource Locator (URL).
+  As mentioned above this information displayed is done via HTTP, which defines how this information is formatted to your device. When our web browsers obtain data that has been requested by the user from an internet connected server, it uses a piece of software called a rendering engine which then translates this data into text and images. Every browser has their own unique rendering engine, for example Chrome uses Blink. The data is rendered is into Hypertext Mark-up Language (HTML) for text and Cascading Style Sheets (CSS) format and style images, this produces a final layout displayed on your user interface.
+  Every modern web browser has its own set of powerful developer tools. These tools allow us to deep dive into the web by doing a variety of functions. For example, the Chrome Developer Tools allow you debug JavaScript, inspect and edit the HTML programming interface DOM (which is Document Object Model), view and edit a page’s style CSS sheets, optimise web speed and much more. 
+
 
 ### Explain how each technology has contributed to the development of client and server communication over the internet
 
+  LINK 1 https://www.codecademy.com/articles/http-requests
+
+  The above functions have all contributed to the communication over the internet. How it works for us today?  When an address is typed into a browser, say www.coderacademy.com.au, we are authorising it to open a TCP gateway to the server that responds to that URL (or address). This example is the computer is the client making the request and the address requested belongs to the server. After the TCP gateway is established and the request sent, once the server has sent back the response the TCP gateway is closed. That request sent was sent via a HTTP ‘GET’ request, which tells the server to retrieve the webpage and display it. The data request via GET is then rendered onto the webpage and a final layout is produced on the user interface.
 
 
 ## Q4 Identify THREE data structures used in the Ruby programming language and explain the reasons for using each.
 
+  Array- 
+  LINK 1 https://ruby-doc.org/core-2.7.0/Array.html
+
+  An array is an ordered collection that uses integers as its index. It is a collection of objects where they are stored in memory location one after the other. Arrays can hold different types of objects such as a String, Integer and a float. Arrays are used as a function to collect items to put them in one central location, they can be used in loops to gather results and they can be used a starting point for more advanced methods.
+
+  Hashes-
+  LINK 1 https://ruby-doc.org/core-2.7.0/Hash.html
+  Hashes are a list data structure that is similar to an array, however each value has a key. Each key must also be unique. A hash can be likened to a dictionary collection of unique keys and their values. Internally, a hash turns the value into an enumerable in the order that the corresponding keys were added. While arrays are integer indexed, hashes can be indexed with objects of any types.
+  Hashes are useful, as often we want to store a list of data that has different properties.
+
+
+  Stack
+  LINK 1 https://www.rubyguides.com/2017/03/computer-science-in-ruby-stacks/
+  A stack in another data structure, which is useful as a “to- do” list, by keeping on taking elements from the ‘stack’ and keep processing them until the stack is empty or completed. When new objects are added into a stack they are put at the top of the stack, and when objects are taken (pop) from the stack, it will be the last object pushed in. This is called a “Last-in, First-out” LIFO fashion. This is the function of a stack, just for pushing objects in and popping them out, a stack can NOT be indexed. Arrays can essentially also be treated like a stack, that is why we can use the push and pop methods on them.  
+
 ## Q5 Describe the features of interpreters and compilers and how they are different.
+  Link1 https://kb.iu.edu/d/agsz
+  Link2 https://scoutapm.com/blog/ruby-interpreters-what-you-need-to-know
+  The easiest way I researched to describe the meanings and differences between interpreters and compilers was the analogy of a foreign language translator and interpreter. 
+  A foreign language translator does their work in advance, before the person who needs it will use it and interpreters actually do the translation live while and for the person who needs it is listening.
+  Thus, a compiled program (the foreign language translator) is an architecture-specific machine language. The steps are the programmer using a development tool or text editor writes the source code in the chosen computer language, the programmer compiles (or transforms) the program, translating it all into computer code instructions which are then run that the computer can understand. Compiled language is usually faster than interpreted languages as the compiler has time to optimise the code.  
+
+  On the other hand, interpreted program (the foreign language interpreter) convert the source code to machine code line by line whilst the program is running. This results in the code running from top to bottom and the running code is immediately returned. Interpreters such as Interactive Ruby Shell (IRB) read and then immediately execute each command. Interpreted languages have the advantage of flexibility, portability and easier to debug, whilst sacrificing speed and performance. 
+
 
 ## Q6 Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
+  LINK 1- https://www.geeksforgeeks.org/comparing-ruby-programming-languages/
+  LINK 2- https://www.ruby-lang.org/en/about/
+  LINK 3- https://ruby-lang.co/what-are-the-disadvantages-of-ruby/
+  ### Ruby 
+  Ruby is an Object-Oriented language developed in Japan in the mid 1990’s by Yukihiro Matsumoto. In Ruby everything is an object, so it is a purely object-oriented language, meaning every line of code can be give its own properties and actions. (link 1) Even numbers and other unsophisticated types can be an object and can be assigned a method. This can ease the use of Ruby for the user as the rules can apply to whole of Ruby. (Link2) Ruby’s flexibility is a standout benefit, parts of code can be freely altered, removed or redefined at will as Ruby tries not to restrict the coder. Ruby also has visual benefits in that generally is it quite a human readable language as Ruby prefers English keywords. One of other the benefits of Ruby is it allows simple and fast creation of applications, as is much less tedious work than many other programming languages.  Ruby is not just free of charge, but it is free to use, copy, modify and distribute. Ruby gems are also a standout feature of Ruby, they are a powerful library of standard format Ruby programs which makes creating applications a smoother process. (Link 1) These are just a handful of the many advantages of Ruby as a programming language. However, Ruby does have some drawbacks, one main one being that since Ruby is an Interpreted scripted language its speed and performance is slower compared to other languages. Also being a newer language, it can be hard to find good documentation and resources on Ruby for learning and using the language. (link 3) 
+
+
+  LINK 1 https://www.freecodecamp.org/news/the-advantages-and-disadvantages-of-javascript/
+  Link 2 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+  LINK 3 https://www.freecodecamp.org/news/the-advantages-and-disadvantages-of-javascript/
+  ### JavaScript
+   Javascript is a programming language enabling a webpage to do more than just sit and display information to the user.  It enables the coder to implement complex features on a webpage, filling the role of the third layer in standard web technologies, namely HTML, CSS and JavaScript completing the cake. JavaScript can create dynamically updating content, control multimedia, animate images and more.(LINK 2) The core advantages of JavaScript are its speed as client-side JavaScript is very fast as it can be run immediately with the browser, it is also very popular as it is used widely on the web, which means there are a lot of resources available for learning and using JavaScript. The interoperability (the ability of computer systems or software to exchange and make use of
+   information) of JavaScript is an advantage is it can be inserted into any web page. JavaScript also has a reduced server load as it is a client-side language. Another key benefit is its versatility as it interacts well with other languages. Some of the drawbacks of JavaScript are its security, as it is client-side it can exploit the user’s system and malicious code can then be executed on the user’s machine. Another disadvantage is browser support for JavaScript as different browsers can interpret the code differently than others which can result in inconsistency with the interface. However, this can be avoided in part as long as testing is done on the different browsers to ensure a uniform output.  (Link 3)
+
 
 ## Q7 Identify TWO ethical issues from the areas below and discuss the extent to which an IT professional is ethically responsible in terms of the issue.
 
-### List of topics containing ethical issues:
-  ### - access to a user’s personal information (medical, family, financial, personal attributes such as sexuality, religion, or beliefs)
-  ### - intellectual property, copyright, and acknowledgement.
-  ### - criminal acts such as theft, fraud, trafficking and distribution of prohibited substances, terrorism
-  ### - GPS tracking data and other types of metadata, MAC addresses, hardware fingerprints
-  ### - freedom of thought, conscience, speech and the media
-  ### - aggressive sales and marketing practices designed to mislead and deceive consumers
-  ### - trading of shares on the stock exchange OR crypto-currencies
-
 ### For each ethical issue identify a source of legal information relating to the ethical issue and discuss whether the law is helpful in assisting a developer to act in an ethical way.
+
+#### Intellectual property, copyright, and acknowledgement.
+
+  Link 1 https://www.ipaustralia.gov.au/ip-for-digital-business/develop/copyright
+  LINK 2 https://hub.business.vic.gov.au/legal/4-intellectual-property-considerations-for-software-ownership/
+  LINK 3 https://www.ipaustralia.gov.au/ip-for-digital-business/develop/licencing-and-open-source
+  LINK 4 https://www.ipaustralia.gov.au/about-us/news-and-community/stay-informed
+
+  (Link 1) In respects of copyright, as soon as a concept is documented on paper or electronically it is automatically protected by copyright in Australia, this also includes code. Copyright applies to code in that when new software is developed in the form of code, it is protected as an original literary work. An important note is the software does not have to actually be literary to be covered as a literary work. The code also does not have to be purely original or originally created (as in no one has created code like it before), the code just has to be qualified by the author that they used their own skillset and efforts to create the software without outright copying someone else’s work. Copyright also covers the additional accompaniments of the code which is normally user documentation, website content and user interfaces. Copyright bestows the right to make copies, publish, display to the public, adapt and commercially rent the software in question, also allows to give license to others to do any of these. A key limiting factor of copyright for software is that is does not protect ‘ideas’ but it protects specific expressions of content. This means that if a basic software idea is copied, but it is achieved by creating independent different code, that would not be infringing copyright. This is where patents come in to play with Intellectual Property (IP) Australia. If the functionality of a software is to be protected, the holder would need to apply for a patent. (LINK 1)
+  For a software developer the basics of intellectual property (IP) are that the author or authors of the code are the property owners of that code. 
+
+  However, if the author is an employee of a company whereby the code was created during employment at the company, the company would then own the IP. Similarly, if the author is a contractor, then they would own the IP. (LINK 2) For a client using either a company or a contractor for software development of their product, generally some form an implied licence to commercialise and use what is developed will be supplied. (LINK 1) More importantly though the client will NOT own any intellectual property rights unless a written agreement is entered into that assigns the client the copyright in the software. A written agreement should always be in place before the work is engaged. An actual signed deed is required for the agreement to be legally effective. The agreement should also cover any possible freelancers that could work on the project to ensure that the copyright is entirely the clients. Another possible risk could be third party IP right infringement with the software developed by the contractor. In this case the written agreement would need to outline which party bears the loss if a third-party infringement claim is made. Once a written agreement is in place it is the contractor’s responsibility to uphold this agreement, along with the client, and whatever terms were implemented. (LINK 1) In the case of two or more parties contributing to the creation of the code, it is automatically implied even percentage joint owners and copyrights, this would only change if specified in a written agreement. 
+
+  For the process of the software developer creating a project it can come from the form of newly written code, licensed code and open source. Newly developed is as the name suggestions, code created from scratch for a software product which is then owned by the original author. (LINK 3) The developed may make use of licensed code, which is normally subject to a licensing agreement. Meaning any use of this code must be in accordance with the aforementioned agreement. Open source is in the form of publicly available code with either relaxed or no restrictions for use or adjustment of the code. However, the developer should still be aware of open source code and any licensing attached to it, relaxed or not, especially in respects of IP implications for your own software. The implications in using open source software could in some way inhibit your own IP or IP agreement and cause legal consequences in future. (LINK 3)
+
+  For this ethical issue a key source of information is IP Australia’s website, which provides up to date information regarding copyright for digital products, ownership and licensing and open source. They are a variety of subscriptions to alerts and news services providing up to date information for topics such as official notices, eServices, Patent Search, Trademark search and many more.  (Link 4) It also outlines where particular IP advice can be sort and makes reference to accountants, lawyers consultants and also specific advice through  Licensing Executives Society of Australia and New Zealand. This website is a great starting point in learning more about this ethical matter. 
+
+
+ #### Aggressive sales and marketing practices designed to mislead and deceive consumers
+  LINK 1 https://www.accc.gov.au/business/advertising-promoting-your-business/false-or-misleading-statements
+
+  Referencing the ACCC (Australian Competition & Consumer Commission) they quote ‘it is illegal for a business to make any statements that are incorrect or likely to create a false impression’. This includes media advertising, product packaging and statements made verbally by a business representative. Two stand out bad advertising practices are bait advertising and wild claims (puffery). (Link1) Bait advertising is an aggressive advertising practice of claim specific prices for goods to services that are ultimately not available or only in small quantities. Puffery is the term used for absurd or vague claims about a product or services that would otherwise would not be taken seriously. Additionally, advertisements with fact guessing, information omittance, ambiguous statements, confusing jargon and false promises are all clear examples of bad marketing practices. More important is what the business should do with correct advertisement. Presenting information to customers about a product or service should in always be current and correct information, using simple language, confirming the overall impression is accurate, backing up claims with facts and evidence and noting any limitations or exceptions.   For an IT professional these are all important factors. The IT company would ensure the information was correct and current, by for example ensuring the developers can deliver what is portrayed, that they have the skill set, knowledge and resources to fulfil what is advertised. They would ensure the marketing is clear and in simple terms that the audience can understand, refraining from using abnormal IT terms that the customer is unlikely to understand. An example of a limitation or exception could be the company not outlining contingencies in project time frames, that would need to be subject to review or other factors. Advertising unattainable time frames of development projects would be bad practice. Any business offering goods or services to customers, ACCC protects customers of these businesses, so proper advertising and marketing practices are of upmost importance. 
+
+  A key source of information regarding this issue can be found at ACCC.gov.au. They cover information regarding the advertising and promoting of businesses and they also provide a guide for reference. https://www.accc.gov.au/publications/advertising-selling. This guide covers in depth misleading claims, correct techniques, extra care claims, pricing and more. They also have a section for what happens if I do not company with the Australian Consumer law. Contact details are also supplied for the Australian Consumer Law Regulators. 
 
 ### Conduct research into a case study of ONE of the ethical issues you have chosen discuss how an ethical IT professional should respond to the case study and how they might mitigate or prevent ethical breaches.
 
+#### CASE STUDY-
+  LINK 1 http://www.apache.org/licenses/LICENSE-2.0
+  LINK 2 https://hwlebsworth.com.au/legal-issues-arising-from-use-of-open-source-software-components/
+
+  A software developer is using an open source library (for example Apache Licence) whereby the license permits the creation of copied works, however, permits free re-distribution of the original material AND any copied works that have been created. Provided that certain terms are met. The developer utilised multiple components of the OSS library, however, did not configure them within the terms and make those components public available per the license. The ethical breach in this scenario the developer not taking due diligence and reviewing the license terms to ensure that compliance is correct and executing the OSS utilised correctly. 
+  OSS components can be very useful to a software developer and their business, however, to ensure that a case study like this is avoided, the business must do all necessary steps to comply the license terms existing under the OSS. Which means whilst open source can seem like a free easy business tool, it can come with hidden costs as time and effort is required to ensure full legal usage. This may require a compliance officer and/or legal advisors depending on the size of the company. For example, in the (Link 2) case of HWL Ebsworth Lawyers compliance case with a client, they assistance with the licence terms applicable for 60 cases of separate OSS components, which resulted in the client having to adjust the software to comply and make that code publicly available. 
+  Not complying with the particular OSS license requirements could result in legal action for the business by the original licensors, negative reviews and feedback from the situation, and an overall reputation impact. Especially if this happens more than once, a business known for not taking correct compliance procedures could result in the customer base declining. 
+  HWL Ebsworth Lawyers have stated that this issue is of upmost importance, and the potential complexities involved with using OSS, they recommend the issue of licensing be incorporated with the software development process. This would ensure compliance for the OSS is fully covered for each OSS component used, rather than backtracking with the possibility of missing anything. 
+  If a business is using OSS extensive and regularly, ultimately proper legal advice is needed on an ongoing basis and correct reviews and updates in place.  
+
+
 ## Q8 Explain control flow, using an example from the Ruby programming language
+  LINK  1 – Day 4 Control Structures/Control Flow
+  LINK  2 http://zetcode.com/lang/rubytutorial/flowcontrol/
+  Control Flow is essentially the flow of execution. A control structure analyses the given expression and then chooses the direction the program takes. There are selection control structures which are used for choices and branching off to 2 or more different paths. There are also repetition control structures which are used as the name says, to repeat or loop a piece of code multiple times in a row until told to stop. An example is the ruby case statement, which is a selection control flow statement. It allows the value of a variable or expression to control the flow of the program execution via a multiple-choice option case. The case keyword is used to test the value of the assigned variable against a list of when keyword values. If the value of the assigned variable matches the value of the particular when keyword that is the line of program executed. The other when keyword values therefore do not get executed. 
+
 
 ## Q9 Explain type coercion
+
+  Type Coercion- Is the changing of an objects type to another type. ‘Coercing” an object in changing into the given type. There are two ways of doing this. Explicit changing such as using #to_s to change a Integer into a string. These will ensure the object will return what is desired. However, calling a change of object on values that do not usually return what is being asked can cause errors as it will return regardless of what happens to the value. Therefor Implicit Coercion is done using methods such as #to_str, which will only return the value we want when the object acts like the type. So, a string will only be returned when the method is implemented somewhere. If not implemented the object will not return.
 
 ## Q10 	Describe the data types recognised by the Ruby programming language. In your description you should give example code which uses each data type, and include the name of the Ruby classes which represent each data type.
 
