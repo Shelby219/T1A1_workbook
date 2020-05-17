@@ -111,20 +111,20 @@ With many Companies like Apple and Google expanding their computer product range
 
   An array is an ordered collection that uses integers as its index. It is a collection of objects where they are stored in memory location one after the other. Arrays can hold different types of objects such as a String, Integer and a float. Arrays are used as a function to collect items to put them in one central location, they can be used in loops to gather results and they can be used a starting point for more advanced methods.
 
-  Reference https://ruby-doc.org/core-2.7.0/Array.html
+  [Reference](https://ruby-doc.org/core-2.7.0/Array.html)
 
   ###Hashes
 
   Hashes are a list data structure that is similar to an array, however each value has a key. Each key must also be unique. A hash can be likened to a dictionary collection of unique keys and their values. Internally, a hash turns the value into an enumerable in the order that the corresponding keys were added. While arrays are integer indexed, hashes can be indexed with objects of any types.
   Hashes are useful, as often we want to store a list of data that has different properties.
 
-  Reference  https://ruby-doc.org/core-2.7.0/Hash.html
+  [Reference](https://ruby-doc.org/core-2.7.0/Hash.html)
 
   ###Stack
 
   A stack in another data structure, which is useful as a “to- do” list, by keeping on taking elements from the ‘stack’ and keep processing them until the stack is empty or completed. When new objects are added into a stack they are put at the top of the stack, and when objects are taken (pop) from the stack, it will be the last object pushed in. This is called a “Last-in, First-out” LIFO fashion. This is the function of a stack, just for pushing objects in and popping them out, a stack can NOT be indexed. Arrays can essentially also be treated like a stack, that is why we can use the push and pop methods on them.  
 
-  Reference https://www.rubyguides.com/2017/03/computer-science-in-ruby-stacks/
+  [Reference](https://www.rubyguides.com/2017/03/computer-science-in-ruby-stacks/)
 
 ## Q5 Describe the features of interpreters and compilers and how they are different.
   The easiest way I researched to describe the meanings and differences between interpreters and compilers was the analogy of a foreign language translator and interpreter. 
@@ -204,18 +204,18 @@ With many Companies like Apple and Google expanding their computer product range
 
 ## Q10 	Describe the data types recognised by the Ruby programming language. In your description you should give example code which uses each data type, and include the name of the Ruby classes which represent each data type.
 
-https://ruby-doc.org/core-2.7.0/Numeric.html
-https://ruby-doc.org/core-2.5.1/Integer.html
-https://ruby-doc.org/core-2.5.1/Float.html
-https://ruby-doc.org/core-2.5.1/Complex.html
-https://ruby-doc.org/core-2.5.1/Rational.html
-https://ruby-doc.org/core-2.7.1/TrueClass.html
-https://ruby-doc.org/core-2.7.1/FalseClass.html
-https://ruby-doc.org/core-2.7.1/NilClass.html
-https://ruby-doc.org/core-2.7.1/String.html
-https://ruby-doc.org/core-2.7.1/Hash.html
-https://ruby-doc.org/core-2.7.1/Array.html
-https://ruby-doc.org/core-2.7.1/Symbol.html
+[Reference Numeric](https://ruby-doc.org/core-2.7.0/Numeric.html), 
+[Reference Integer](https://ruby-doc.org/core-2.5.1/Integer.html), 
+[Reference Float](https://ruby-doc.org/core-2.5.1/Float.html), 
+[Reference Complex](https://ruby-doc.org/core-2.5.1/Complex.html), 
+[Reference Rational](https://ruby-doc.org/core-2.5.1/Rational.html), 
+[Reference True Class](https://ruby-doc.org/core-2.7.1/TrueClass.html), 
+[Reference False Class](https://ruby-doc.org/core-2.7.1/FalseClass.html), 
+[Reference Nil Class](https://ruby-doc.org/core-2.7.1/NilClass.html), 
+[Reference String](https://ruby-doc.org/core-2.7.1/String.html), 
+[Reference Hash](https://ruby-doc.org/core-2.7.1/Hash.html), 
+[Reference Array](https://ruby-doc.org/core-2.7.1/Array.html), 
+[Reference Symbol](https://ruby-doc.org/core-2.7.1/Symbol.html)
 
 ### Numeric
 This is the highest class within the numeric class family. It is the superclass of Integer, Float, Complex and Rational. 
@@ -347,7 +347,7 @@ A symbol is an object representing names inside Ruby.  It is just representing t
   ### i. Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive). Your flowchart should make use of standard conventions for flowcharts to indicate processes, tasks, actions, or operations  
   ### ii. Write pseudocode for the process outlined in your flowchart
 
-Flow Chart can be found here:![flow_chart](https://github.com/Shelby219/T1A1_workbook/blob/master/docs/Flowchart.pdf "flow_chart")
+Flow Chart can be found [here](https://github.com/Shelby219/T1A1_workbook/blob/master/docs/Flowchart.pdf "flow_chart").
 
 ### Psuedo Code 
     
