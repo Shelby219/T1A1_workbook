@@ -217,7 +217,7 @@ https://ruby-doc.org/core-2.7.1/Hash.html
 https://ruby-doc.org/core-2.7.1/Array.html
 https://ruby-doc.org/core-2.7.1/Symbol.html
 
-###Numeric
+### Numeric
 This is the highest class within the numeric class family. It is the superclass of Integer, Float, Complex and Rational. 
 
     irb> Integer.superclass
@@ -229,59 +229,59 @@ This is the highest class within the numeric class family. It is the superclass 
     irb> Rational.superclass
     => Numeric
 
-####Integer 
+#### Integer 
 An integer is a whole number
 
     Integer.sqrt(24)  
 
-####Float 
+#### Float 
 These represent inexact real numbers using the native architecture’s double- precision floating-point representation.
 
     2.0**3   #=> 8.0
 
-####Complex
+#### Complex
 This is represented as a paired real number with an imaginary unit. (a+bi) Where a is the real part, b is imaginary, and I is imaginary unit. These are not really numbers; however, Ruby has an object that can handle these numbers.
 
     2+1i                 #=> (2+1i)
 
-####Rational
+#### Rational
 Represents a rational number as numerator and denominator: a/b (b>0), where a is the numerator and b is the denominator.
 
     Rational(1)      #=> (1/1)
 
-###Boolean (True, False and NilClass) 
+### Boolean (True, False and NilClass) 
 Ruby does not have a Boolean class. They are expressions of the classes true, false and nil class. 
 
-####True
+#### True
 Global value true. Represents a logically true value in a Boolean expression. 
 
     if true puts “abc”
 
-####False
+#### False
 Global value false. Represents a logically false value in a Boolean expression. 
 
     if false puts “abc”
 
-####NilClass
+#### NilClass
 The class of the object Nil. 
 
     nil.to_a   #=> []
 
-###Strings
+### Strings
 This class holds an object made up of a sequence of characters. This could consist of letters, numbers or symbols. This class is changeable in place.
 
     String.try_convert("str")     #=> "str"
 
-###Arrays 
+### Arrays 
 An array is an ordered collection that uses integers as its index. This indexing starts at 0.  It is a collection of objects where they are stored in memory location one after the other.
 new_arr = Array.new 
 
-###Hashes 
+### Hashes 
 Hashes are a list data structure that is similar to an array, however each value has a key. Each key must also be unique. A hash can be likened to a dictionary collection of unique keys and their values. While arrays are integer indexed, hashes can be indexed with objects of any types.
 
     new_hash = Hash.new 
 
-###Symbols 
+### Symbols 
 A symbol is an object representing names inside Ruby.  It is just representing that name and internal ID. Once a symbol is given a name, it refers to the same object throughout the program execution. 
 
     weapons = [:SCISSORS, :PAPER, :ROCK]
@@ -292,16 +292,16 @@ A symbol is an object representing names inside Ruby.  It is just representing t
   ### - Identify the classes you would use to solve the problem
   ### - Write a short explanation of why you would use the classes you have identified
  
-  ####Menu Item Class
+  #### Menu Item Class
     To initialize the menu items and needed instance variables, this would mean the @item, @price @description
 
-  ####Order Class Inheriting from Menu Item for creating new orders
+  #### Order Class Inheriting from Menu Item for creating new orders
     To create new foods/drinks inheriting from the menu item class as each would have the same instance variables. So, when new foods/drinks are created new menu items objects are created and a new order object is created using the menu items. So once the menu item objects are created then can then be used in future, also being able to change the description using instance method, in case someone orders the same object with slight adjustments. 
     Eg.
     menu1 = MenuItem.new (item, price, description)
     order1 = Order.new (menu1,…etc)
     This class is useful to as if an order history is needed, the orders class objects will hold this information. 
-  ####Restaurant Module with functional Methods for the order process
+  #### Restaurant Module with functional Methods for the order process
     To house the primary methods for the order collecting process. With the gets methods collecting data. 
     Eg.
     What would like to order? Etc….
@@ -349,7 +349,7 @@ A symbol is an object representing names inside Ruby.  It is just representing t
 
 Flow Chart can be found here:![flow_chart](https://github.com/Shelby219/T1A1_workbook/blob/master/docs/Flowchart.pdf "flow_chart")
 
-###Psuedo Code
+### Psuedo Code 
     
     Method prime_checker
     numbers equals array of 2 til 100
