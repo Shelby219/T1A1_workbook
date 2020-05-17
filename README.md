@@ -3,53 +3,82 @@
 
 ## Q1 Research the development of the internet from 1980 to today. You must describe at least FIVE key events in the development of the internet. You can refer to events, people of significance, or technologies and how they have changed over time.
 
-According to the Cambridge Dictionary the Internet is defined as “the large system of connected computers around the world that allows people to share information and communicate with each other”(Link 1).  Today we see this on an unprecedented scale. We are living in an age of information sharing, in fact an oversharing. From our computers, laptops, tablets, televisions, mobiles, smart watches, daily our lives revolve around information sharing and communication. We can look up a recipe on an iPad in a blink, stream a movie in an instance, video chat with a friend across the globe in a second, go shopping, play games, read books, do a gym class, do an online course, if you can think of it we have it at our finger tips, day or night. However, before the internet was as we know it today, it had a beginning. 
+According to the Cambridge Dictionary the Internet is defined as “the large system of connected computers around the world that allows people to share information and communicate with each other”(Link 1, Screen shot 1).  Today we see this on an unprecedented scale. We are living in an age of information sharing, in fact an oversharing. From our computers, laptops, tablets, televisions, mobiles, smart watches, daily our lives revolve around information sharing and communication. We can look up a recipe on an iPad in a blink, stream a movie in an instance, video chat with a friend across the globe in a second, go shopping, play games, read books, do a gym class, do an online course, if you can think of it we have it at our finger tips, day or night. However, before the internet was as we know it today, it had a beginning. 
 
-The original foundation of the internet came about from the effort of government-funded computer networking efforts. The predecessor to the internet started with US Department of Defence, Advanced Research Projects Agency (ARPA) establishing the first wide-area packet-switching network called ARPANET (Link 2). This begun via a program established called Internetting, based on the notion of the connecting of more than one network via “gateway” (Link 3). ARPA-funded researchers developed many of the protocols still used on computer networks today (most notably on the Internet). ARPA was also the first to implement the TCP/IP (Transmission Control Protocol/Internet Protocol) protocol suite, providing end-to-end connectivity specifying how different types of machines on networks around the world to route and assemble data packets (Link 3). Therefor enabling multiple separate networks to be joined by a network of networks. (Link 4).  
+The original foundation of the internet came about from the effort of government-funded computer networking efforts. The predecessor to the internet started with US Department of Defence, Advanced Research Projects Agency (ARPA) establishing the first wide-area packet-switching network called ARPANET (Link 2, Screen Shot 1). This begun via a program established called Internetting, based on the notion of the connecting of more than one network via “gateway” (Link 3, Screen Shot 1). ARPA-funded researchers developed many of the protocols still used on computer networks today (most notably on the Internet). ARPA was also the first to implement the TCP/IP (Transmission Control Protocol/Internet Protocol) protocol suite, providing end-to-end connectivity specifying how different types of machines on networks around the world to route and assemble data packets (Link 3, Screen Shot 2). Therefore, enabling multiple separate networks to be joined by a network of networks. (Link 4, Screen Shot 1).  
 
-By the 1980’s the “open architecture” concept of the TCP/IP method was implemented by other agencies so their researchers could communicate and share data. (Link 2). For example, the National Science Foundation (NSF) were heavily involved with networking starting with establishing Computer Science Network (CSNET) (Link 2), to provide networking services to all university scientists. Then to expand access to the entire scientific and academic community, in 1986 NSFNET, the first large-scale enactment of internet technologies, went online to connect the recently completed supercomputer centres around the US. These supercomputers were built to be shared by scientists and engineers around the country. The NSF also funded various regional research and education networks to connect to the NSFNET ‘backbone’, at this time its links were 1.5 megabits per second. NSFNET was financially self-sufficient and wanted the network to grow and accommodate any traffic that could reach it. To accommodate the influx of Internet-connected computers it became the first 45 megabits per second Internet network in 1991. (Link 2) 
+By the 1980’s the “open architecture” concept of the TCP/IP method was implemented by other agencies so their researchers could communicate and share data. For example, the National Science Foundation (NSF) were heavily involved with networking starting with establishing Computer Science Network (CSNET) (Link 2, Screen Shot 2) to provide networking services to all university scientists. Then to expand access to the entire scientific and academic community, in 1986 NSFNET, the first large-scale enactment of internet technologies, went online to connect the recently completed supercomputer centres around the US. These supercomputers were built to be shared by scientists and engineers around the country. The NSF also funded various regional research and education networks to connect to the NSFNET ‘backbone’, at this time its links were 1.5 megabits per second. NSFNET was financially self-sufficient and wanted the network to grow and accommodate any traffic that could reach it. To accommodate the influx of Internet-connected computers it became the first 45 megabits per second Internet network in 1991. (Link 2, Screen Shot 3) 
 
-Noting the growth and popularity of the Internet a few commercial firms built their own networks. Since many commercial providers were meeting the needs of the research community, in 1995 the NSF began by awarding contracts for three network access points, and one routing arbiter, to provide connection points between these commercial networks, additionally signing a cooperation agreement to establish the next generation Backbone Network Service.   (link 2)
-A notable event was when the NSFNET backbone was decommissioned in April 1995.
+Noting the growth and popularity of the Internet a few commercial firms built their own networks. Since many commercial providers were meeting the needs of the research community, in 1995 the NSF began by awarding contracts for three network access points, and one routing arbiter, to provide connection points between these commercial networks, additionally signing a cooperation agreement to establish the next generation Backbone Network Service.   (Link 2 Screen Shot 4) A notable event was when the NSFNET backbone was decommissioned in April 1995.
 
-Another prominent name in the history of the internet is Tim Berners-Lee. Sir Tim noticed the scientists around the world had difficultly sharing information. (link 6) “In those days, there was different information on different computers, but you had to log on to different computers to get at it. Also, sometimes you had to learn a different program on each computer. Often it was just easier to go and ask people when they were having coffee…”- Tim Berners-Lee. At this time millions of computers were already being connected through the internet and through using hypertext, Berners-Lee determined they could share information. Hypertext is defined as a ‘software system allowing extensive cross-referencing between related sections of text and associated graphic material’. (Link 7). By 1990, Berners-Lee had written the three foundational technologies of today’s web browser, HTML, URL and HTTP. By 1991 the World Wide Web was launched to people outside CERN and subsequently was made freely available to all. Tim also wrote the first web browser WorldWideWeb.app, however a standout early days browser was Mosaic.
+Another prominent name in the history of the internet is Tim Berners-Lee. Sir Tim noticed the scientists around the world had difficultly sharing information. “In those days, there was different information on different computers, but you had to log on to different computers to get at it. Also, sometimes you had to learn a different program on each computer. Often it was just easier to go and ask people when they were having coffee…”- Tim Berners-Lee. . (Link 6, Screen Shot 1) At this time millions of computers were already being connected through the internet and through using hypertext, Berners-Lee determined they could share information. Hypertext is defined as a ‘software system allowing extensive cross-referencing between related sections of text and associated graphic material’. (Link 7). By 1990, Berners-Lee had written the three foundational technologies of today’s web browser, HTML, URL and HTTP. By 1991 the World Wide Web was launched to people outside CERN and subsequently was made freely available to all. Tim also wrote the first web browser WorldWideWeb.app, however a standout early days browser was Mosaic.
 
-Mosaic was developed in 1993 by students and staff working at the NSF-supported National Centre for Supercomputing Applications (NCSA) (link8). Mosaic was more sophisticated graphically than other browsers at the time. By January 1993 is was available for free for Unix, but PC and Mac versions followed soon after. With its expansive system availability, it quickly became the browser of choice. Mosaic Communications Corp was incorporated and then developed the Mosaic browser and server software for commercial use. Mosaic was the standout predecessor to the following modern browsers such as Microsoft Internet Explorer. (link 2).
+Mosaic was developed in 1993 by students and staff working at the NSF-supported National Centre for Supercomputing Applications (NCSA) (Link 8, Screen Shot 1). Mosaic was more sophisticated graphically than other browsers at the time. By January 1993 is was available for free for Unix, but PC and Mac versions followed soon after. With its expansive system availability, it quickly became the browser of choice. Mosaic Communications Corp was incorporated and then developed the Mosaic browser and server software for commercial use. Mosaic was the standout predecessor to the following modern browsers such as Microsoft Internet Explorer. (Link 2, Screen Shot 5).
 
-Regarding the road to a commercially workable Internet, a point of contention was the component of the registration of Domain names. The Domain Name System (DNS) is essentially a large database containing the names and IP address of various hosts on the internet, which computers use to locate one another. Initially the Department of Defence funded early registration efforts as registrants were mostly military, then once they because mostly academic registrations, by the Federal Networking Council asking NSF, they held responsibility for non-military registrations. NSF then awarded this service to Network Solutions INC (NSI). Due the fact the new registrations were mostly commercial NSF sanctioned NSI to charge a fee for name registration. In 1993 there were 7,500 domain names and by September 1998 the number had grew pass 2 million.
+Regarding the road to a commercially workable Internet, a point of contention was the component of the registration of Domain names. The Domain Name System (DNS) is essentially a large database containing the names and IP address of various hosts on the internet, which computers use to locate one another. Initially the Department of Defence funded early registration efforts as registrants were mostly military, then once they because mostly academic registrations, by the Federal Networking Council asking NSF, they held responsibility for non-military registrations. NSF then awarded this service to Network Solutions INC (NSI). (Link 5) Due the fact the new registrations were mostly commercial NSF sanctioned NSI to charge a fee for name registration. In 1993 there were 7,500 domain names and by September 1998 the number had grew pass 2 million.
 
-Privatization of the Internet was in the year 1998 marked the end of NSF’s direct role in the Internet. The commercial sector received the network access points, and routing arbiter functions and an agreement was signed by the Department of Commerce’s National Telecommunications and Information Administration with the non-profit Internet Corporation for Assigned Numbers and Names (ICANN) for domain name registration control. (link 2).
+Privatization of the Internet was in the year 1998 marked the end of NSF’s direct role in the Internet. The commercial sector received the network access points, and routing arbiter functions and an agreement was signed by the Department of Commerce’s National Telecommunications and Information Administration with the non-profit Internet Corporation for Assigned Numbers and Names (ICANN) for domain name registration control. (Link 2, Screen Shot 6).
 
-Commercialising the internet meant millions were laying fibre-optic cables and getting online. In an effect to rid of wires and to make the internet portable, wireless LAN (WLAN) was then invented and patented. Dr John O’Sullivan and team at the Commonwealth Science and Industrial Research Organisation (CSIRO), through extensive research into radioastronomy, knowledge of complex mathematics and detailed knowledge of radio waves and their behaviour, the invention of WLAN was born. The issue of interference (radio waves bouncing off indoor surfaces, causing a signal distorting echo) was overcome by this team by building a chip that reduced this echo and improved the signal quality. (link 11 and 12)
+Commercialising the internet meant millions were laying fibre-optic cables and getting online. In an effect to rid of wires and to make the internet portable, wireless LAN (WLAN) was then invented and patented. Dr John O’Sullivan and team at the Commonwealth Science and Industrial Research Organisation (CSIRO), through extensive research into radioastronomy, knowledge of complex mathematics and detailed knowledge of radio waves and their behaviour, the invention of WLAN was born. The issue of interference (radio waves bouncing off indoor surfaces, causing a signal distorting echo) was overcome by this team by building a chip that reduced this echo and improved the signal quality. (Link 11, Screen Shot 1 and Link 12, Screen Shot 1)
 
-After Y2K, the internet truly had changed the world. Even though the “dot.com” bubble killed many internet start-ups but allowed for improvement to the internet infrastructure; this paved the way for what is ‘Web 2.0’. An internet focused on user-generated content and social networking. With the invention of WLAN as mentioned, the internet became even more accessible.
+After Y2K, the internet truly had changed the world. Even though the “dot.com” bubble killed many internet start-ups but allowed for improvement to the internet infrastructure; this paved the way for what is ‘Web 2.0’. An internet focused on user-generated content and social networking. With the invention of WLAN as mentioned, the internet became even more accessible. (Link 10, Screen Shot 1)
 
-With many Companies like Apple and Google expanding their computer product range exponentially every year, that only enables users to keep expanding their internet use and level of connectivity. The introduction of smartphones, particularly the realise of the Apple iPhone in 2007, redefined the level of connectivity and social media. Facebook, Twitter and Instagram being some of the most popular sites on the internet, all forms of content are able to be shared at the touch of a button, to friends or the whole world. Millions are blogging, vlogging, tweeting, posting, snapping, liking, subscribing and commenting on everything daily. We are now living in a day and age where a job as a “social media influencer” can pay six figures. All of these developments have only been in the last 10 years.  Who knows what the next 10 years of the ever-evolving internet will bring…… (link 10) 
+With many Companies like Apple and Google expanding their computer product range exponentially every year, that only enables users to keep expanding their internet use and level of connectivity. The introduction of smartphones, particularly the realise of the Apple iPhone in 2007, redefined the level of connectivity and social media. Facebook, Twitter and Instagram being some of the most popular sites on the internet, all forms of content are able to be shared at the touch of a button, to friends or the whole world. Millions are blogging, vlogging, tweeting, posting, snapping, liking, subscribing and commenting on everything daily. We are now living in a day and age where a job as a “social media influencer” can pay six figures. All of these developments have only been in the last 10 years.  Who knows what the next 10 years of the ever-evolving internet will bring…… (Link 10, Screen Shot 2) 
+
+
+[Link 1](https://dictionary.cambridge.org/dictionary/english/internet)
+
+[LINK 2](https://www.nsf.gov/news/news_summ.jsp?cntn_id=103050)
+
+[LINK 3](https://www.britannica.com/technology/Internet)
+
+[LINK 4](https://en.wikipedia.org/wiki/ARPANET)
+
+[LINK 5](http://archive.icann.org/en/nsi/coopagmt-01jan93.htm#1)
+
+[LINK 6](https://webfoundation.org/about/vision/history-of-the-web/)
+
+[LINK 7](https://www.lexico.com/en/definition/hypertext)
+
+[LINK 8](https://history-computer.com/Internet/Conquering/Mosaic.html)
+
+[LINK 9](http://www.historyofdomainnames.com/dns/)
+
+[LINK 10](https://www.nsf.gov/news/special_reports/nsf-net/2000.jsp)
+
+[LINK 11](https://www.monashtechschool.vic.edu.au/single-post/2018/06/04/The-Invention-of-WiFi)
+
+[LINK 12](https://www.csiro.au/en/Research/Technology/Telecommunications/Wireless-LAN)
 
 
 ## Q2 Define the features of the following technologies that are essential in terms of the development of the internet:
   ### - packets
-  LINK 1 https://www.britannica.com/technology/Internet#ref733575
-  LINK 2 https://www.britannica.com/topic/ARPANET/A-packet-of-data
-  A packet is a small amount of data sent over a network. In the early history of the internet, there was a need to share information over vast distances without the use of individual phone connections between each computer. “Packet Switching” satisfied this need as these packets can travel independently over any circuit to the pointed destination. Packets are simply small collections of digital information broken off from a larger source, transmitted separately on the route and accurately reassembled by the modem on the other side. (link 1 and 2)
+  
+  A packet is a small amount of data sent over a network. In the early history of the internet, there was a need to share information over vast distances without the use of individual phone connections between each computer. “Packet Switching” satisfied this need as these packets can travel independently over any circuit to the pointed destination. Packets are simply small collections of digital information broken off from a larger source, transmitted separately on the route and accurately reassembled by the modem on the other side. (Link 1, Screen Shot 1 and Link 2, Screen Shot 1)
+
+  [LINK 1](https://www.britannica.com/technology/Internet#ref733575) 
+  [LINK 2](https://www.britannica.com/topic/ARPANET/A-packet-of-data) 
 
   ### - IP addresses (IPv4 and IPv6)
-  LINK 1 https://www.guru99.com/difference-ipv4-vs-ipv6.html
-  LINK 2 https://www.iana.org/numbers
+ 
   Internet Protocol Address also known as IP address is a numerical label used to identify each computer on the Internet. IPv4 was deployed in 1983 and maintains a 32-bit protocol standard and is still the most commonly used version. IPv4 addresses are 32-bit numbers expressed as 4 octets in “dotted decimal” system. IPv6 was deployed in 1999 to fulfil the need for more Internet addresses and are 128-bit numbers conventionally separated by colons.
 
+   [LINK 3](https://www.guru99.com/difference-ipv4-vs-ipv6.html)
+   [LINK 4](https://www.iana.org/numbers)
+
   ### - routers and routing
-  LINK1 https://searchnetworking.techtarget.com/definition/router
-  LINK2 https://www.techopedia.com/definition/13207/routing
-  The initial idea for a router, which at first was called a gateway (Link 3), was the notion of connecting different computer networks. A router is a device for networking, essentially it a small computer itself, it analyses the header of the data packet destination IP address, calculates the best way for it to reach the destination then forwards the data packet between different computer networks.
+  The initial idea for a router, which at first was called a gateway, was the notion of connecting different computer networks. A router is a device for networking, essentially it a small computer itself, it analyses the header of the data packet destination IP address, calculates the best way for it to reach the destination then forwards the data packet between different computer networks.
   Routing is the establishing of the routes that the data packets take to their particular destination, done by the router checking its routing table which is marked with a set of routing rules (algorithms and protocols) used to determine the most optimal path to reach the destination. 
 
+  [LINK 5](https://searchnetworking.techtarget.com/definition/router)
+  [LINK 6](https://www.techopedia.com/definition/13207/routing)
+
   ### - domains and DNS
-  Link 1 https://www.britannica.com/technology/domain-name
-  Link 2  https://www.crazydomains.com.au/learn/components-domain-name/
   A Domain Name is an identifying ‘web address’ for any business, organisation or individual used to develop a unique online presence and identity. Once registered, a domain name is unique and cannot be copied. It is mapped to an IP address; however, two or more domain names can be mapped to the same IP address. The domain name structures work in levels. The Second-level Domain (SLD) is the unique customisable portion of the domain, for example it could be a name or organisation. The Top-level Domain (TLD) is the domain extension found at the end of the name, these are allocated by ICANN (the organisation that manages the internet). The most popular categories of the TLD are Country-code top-level domain (ccTLD), which are country specific extensions such as .au or .uk, and the Generic top-level domain (gTLD), which depict the kind of website created such as commercial (.com) or organisation (.org). These domain name levels form a structure resulting in a Uniform Resource Locator (URL), which essentially is the produced web address.
   The Domain Name System (DNS) is essentially a phonebook of the internet, it contains the domain name and linked IP addresses for the internet. It a large database so that remembers all this information so we as humans do not have to, it translates the domain name to the attached IP address which enables our web browsers to load the desired internet resource.
 
+  [Link 7](https://www.britannica.com/technology/domain-name)
+  [Link 8](https://www.crazydomains.com.au/learn/components-domain-name/)
 
 ### Explain how each technology has contributed to the development of the internet.
 
@@ -57,81 +86,80 @@ With many Companies like Apple and Google expanding their computer product range
 
 ## Q3 Define the features of the following technologies that are essential in terms of the development of the internet:
   ### - TCP
-  LINK 1 https://www.britannica.com/technology/Internet
-  LINK2 https://www.britannica.com/technology/TCP-IP
+  Originally developed in the 1970’s TCP/IP (Transmission Control Protocol/Internet Protocol) protocol suite, provides end-to-end connectivity specifying how different types of machines on networks around the world to route and assemble data packets (Link 1, Screen Shot 1). Whilst IP is the protocol of dealing with packets, the TCP is what enables two hosts to establish a gateway and exchange data packets. TCP is responsible for how the data is collected and reassembled. IP is what makes sure the packets are sent to the right destination. (Link 2)
 
-  Originally developed in the 1970’s TCP/IP (Transmission Control Protocol/Internet Protocol) protocol suite, provides end-to-end connectivity specifying how different types of machines on networks around the world to route and assemble data packets (Link 1). Whilst IP is the protocol of dealing with packets, the TCP is what enables two hosts to establish a gateway and exchange data packets. TCP is responsible for how the data is collected and reassembled. IP is what makes sure the packets are sent to the right destination. (Link 2)
+  [LINK 1](https://www.britannica.com/technology/Internet)
+  [LINK 2](https://www.britannica.com/technology/TCP-IP)
 
   ### - HTTP and HTTPS
-  LINK 1 https://www.nginx.com/resources/glossary/http/
-  LINK 2 https://www.webopedia.com/TERM/H/HTTP.html
-  LINK 3 https://www.ssl.com/faqs/what-is-https/
-  LINK 4 https://www.websecurity.digicert.com/en/au/security-topics/what-is-ssl-tls-https
+  Usually the first exposure we get to Hypertext Transfer Protocol (HTTP) is we see it at the beginning of our web address; however, it is an important fragment of our everyday internet use. HTTP is the primary protocol or procedure used by the World Wide Web for the transmission of information across the internet. (Link 4, Screen Shot 1)This exchange is between a client (web browser) and a web server. The information exchanged is done in the form of Hypertext documents which uses hyperlinks to link different content that a user can jump to. HTTP is what defines how these hypertext documents are formatted and transmitted.(Link 3)
+  HTTPS (Hypertext Transfer Protocol secure) is the secure version of the HTTP protocol. HTTPS uses Secure Sockets Layer (SSL) and its successor Transport Layer Security (TLS), which in short is the technology for keeping an internet connection secure by encoding and authenticating the link. So, when we see HTTPS in the URL is it a website secured by an SSL certificate. (Link 5 and Link 6, Screen Shot 1)
 
-  Usually the first exposure we get to Hypertext Transfer Protocol (HTTP) is we see it at the beginning of our web address; however, it is an important fragment of our everyday internet use. HTTP is the primary protocol or procedure used by the World Wide Web for the transmission of information across the internet. This exchange is between a client (web browser) and a web server. The information exchanged is done in the form of Hypertext documents which uses hyperlinks to link different content that a user can jump to. HTTP is what defines how these hypertext documents are formatted and transmitted.
-  HTTPS (Hypertext Transfer Protocol secure) is the secure version of the HTTP protocol. HTTPS uses Secure Sockets Layer (SSL) and its successor Transport Layer Security (TLS), which in short is the technology for keeping an internet connection secure by encoding and authenticating the link. So, when we see HTTPS in the URL is it a website secured by an SSL certificate.
+  [LINK 3](https://www.nginx.com/resources/glossary/http/)
+  [LINK 4](https://www.webopedia.com/TERM/H/HTTP.html)
+  [LINK 5](https://www.ssl.com/faqs/what-is-https/)
+  [LINK 6](https://www.websecurity.digicert.com/en/au/security-topics/what-is-ssl-tls-https)
     
   ### - web browsers (requests, rendering and developer tools)
-  LINK 1 https://www.browserstack.com/guide/browser-rendering-engine
-  LINK 2 https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/
-  LINK 4 https://developers.google.com/web/tools/chrome-devtools
-  LINK 5 https://www.codecademy.com/articles/http-requests
-  LINK 6 https://www.lifewire.com/web-browser-developer-tools-3988965
+  A web browser is probably one of the most universally recognized terms. A web browser is a software application which takes you anywhere on the internet, used to access and display websites on your computer or mobile device. This is done via a web address, technically called and Uniform Resource Locator (URL). (Link 8, Screen Shot 1)
+  As mentioned above this information displayed is done via HTTP, which defines how this information is formatted to your device. When our web browsers obtain data that has been requested by the user from an internet connected server, it uses a piece of software called a rendering engine which then translates this data into text and images. Every browser has their own unique rendering engine, for example Chrome uses Blink. The data is rendered is into Hypertext Mark-up Language (HTML) for text and Cascading Style Sheets (CSS) format and style images, this produces a final layout displayed on your user interface. (Link 7, Screen Shot 1)
+  Every modern web browser has its own set of powerful developer tools. These tools allow us to deep dive into the web by doing a variety of functions. For example, the Chrome Developer Tools allow you debug JavaScript, inspect and edit the HTML programming interface DOM (which is Document Object Model), view and edit a page’s style CSS sheets, optimise web speed and much more. (Link 9)(Link 10)
 
-
-  A web browser is probably one of the most universally recognized terms. A web browser is a software application which takes you anywhere on the internet, used to access and display websites on your computer or mobile device. This is done via a web address, technically called and Uniform Resource Locator (URL).
-  As mentioned above this information displayed is done via HTTP, which defines how this information is formatted to your device. When our web browsers obtain data that has been requested by the user from an internet connected server, it uses a piece of software called a rendering engine which then translates this data into text and images. Every browser has their own unique rendering engine, for example Chrome uses Blink. The data is rendered is into Hypertext Mark-up Language (HTML) for text and Cascading Style Sheets (CSS) format and style images, this produces a final layout displayed on your user interface.
-  Every modern web browser has its own set of powerful developer tools. These tools allow us to deep dive into the web by doing a variety of functions. For example, the Chrome Developer Tools allow you debug JavaScript, inspect and edit the HTML programming interface DOM (which is Document Object Model), view and edit a page’s style CSS sheets, optimise web speed and much more. 
+  [LINK 7](https://www.browserstack.com/guide/browser-rendering-engine)
+  [LINK 8](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
+  [LINK 9](https://developers.google.com/web/tools/chrome-devtools)
+  [LINK 10](https://www.lifewire.com/web-browser-developer-tools-3988965)
 
 
 ### Explain how each technology has contributed to the development of client and server communication over the internet
-
-  LINK 1 https://www.codecademy.com/articles/http-requests
-
   The above functions have all contributed to the communication over the internet. How it works for us today?  When an address is typed into a browser, say www.coderacademy.com.au, we are authorising it to open a TCP gateway to the server that responds to that URL (or address). This example is the computer is the client making the request and the address requested belongs to the server. After the TCP gateway is established and the request sent, once the server has sent back the response the TCP gateway is closed. That request sent was sent via a HTTP ‘GET’ request, which tells the server to retrieve the webpage and display it. The data request via GET is then rendered onto the webpage and a final layout is produced on the user interface.
+
+  [LINK 11](https://www.codecademy.com/articles/http-requests)
 
 
 ## Q4 Identify THREE data structures used in the Ruby programming language and explain the reasons for using each.
 
   Array- 
-  LINK 1 https://ruby-doc.org/core-2.7.0/Array.html
-
   An array is an ordered collection that uses integers as its index. It is a collection of objects where they are stored in memory location one after the other. Arrays can hold different types of objects such as a String, Integer and a float. Arrays are used as a function to collect items to put them in one central location, they can be used in loops to gather results and they can be used a starting point for more advanced methods.
 
+  Reference https://ruby-doc.org/core-2.7.0/Array.html
+
   Hashes-
-  LINK 1 https://ruby-doc.org/core-2.7.0/Hash.html
   Hashes are a list data structure that is similar to an array, however each value has a key. Each key must also be unique. A hash can be likened to a dictionary collection of unique keys and their values. Internally, a hash turns the value into an enumerable in the order that the corresponding keys were added. While arrays are integer indexed, hashes can be indexed with objects of any types.
   Hashes are useful, as often we want to store a list of data that has different properties.
 
+  Reference  https://ruby-doc.org/core-2.7.0/Hash.html
 
-  Stack
-  LINK 1 https://www.rubyguides.com/2017/03/computer-science-in-ruby-stacks/
+  Stack-
   A stack in another data structure, which is useful as a “to- do” list, by keeping on taking elements from the ‘stack’ and keep processing them until the stack is empty or completed. When new objects are added into a stack they are put at the top of the stack, and when objects are taken (pop) from the stack, it will be the last object pushed in. This is called a “Last-in, First-out” LIFO fashion. This is the function of a stack, just for pushing objects in and popping them out, a stack can NOT be indexed. Arrays can essentially also be treated like a stack, that is why we can use the push and pop methods on them.  
 
+  Reference https://www.rubyguides.com/2017/03/computer-science-in-ruby-stacks/
+
 ## Q5 Describe the features of interpreters and compilers and how they are different.
-  Link1 https://kb.iu.edu/d/agsz
-  Link2 https://scoutapm.com/blog/ruby-interpreters-what-you-need-to-know
   The easiest way I researched to describe the meanings and differences between interpreters and compilers was the analogy of a foreign language translator and interpreter. 
   A foreign language translator does their work in advance, before the person who needs it will use it and interpreters actually do the translation live while and for the person who needs it is listening.
   Thus, a compiled program (the foreign language translator) is an architecture-specific machine language. The steps are the programmer using a development tool or text editor writes the source code in the chosen computer language, the programmer compiles (or transforms) the program, translating it all into computer code instructions which are then run that the computer can understand. Compiled language is usually faster than interpreted languages as the compiler has time to optimise the code.  
 
   On the other hand, interpreted program (the foreign language interpreter) convert the source code to machine code line by line whilst the program is running. This results in the code running from top to bottom and the running code is immediately returned. Interpreters such as Interactive Ruby Shell (IRB) read and then immediately execute each command. Interpreted languages have the advantage of flexibility, portability and easier to debug, whilst sacrificing speed and performance. 
 
+  [Link 1](https://kb.iu.edu/d/agsz)
+  [Link 2](https://scoutapm.com/blog/ruby-interpreters-what-you-need-to-know)
 
 ## Q6 Identify TWO commonly used programming languages and explain the benefits and drawbacks of each.
-  LINK 1- https://www.geeksforgeeks.org/comparing-ruby-programming-languages/
-  LINK 2- https://www.ruby-lang.org/en/about/
-  LINK 3- https://ruby-lang.co/what-are-the-disadvantages-of-ruby/
   ### Ruby 
   Ruby is an Object-Oriented language developed in Japan in the mid 1990’s by Yukihiro Matsumoto. In Ruby everything is an object, so it is a purely object-oriented language, meaning every line of code can be give its own properties and actions. (link 1) Even numbers and other unsophisticated types can be an object and can be assigned a method. This can ease the use of Ruby for the user as the rules can apply to whole of Ruby. (Link2) Ruby’s flexibility is a standout benefit, parts of code can be freely altered, removed or redefined at will as Ruby tries not to restrict the coder. Ruby also has visual benefits in that generally is it quite a human readable language as Ruby prefers English keywords. One of other the benefits of Ruby is it allows simple and fast creation of applications, as is much less tedious work than many other programming languages.  Ruby is not just free of charge, but it is free to use, copy, modify and distribute. Ruby gems are also a standout feature of Ruby, they are a powerful library of standard format Ruby programs which makes creating applications a smoother process. (Link 1) These are just a handful of the many advantages of Ruby as a programming language. However, Ruby does have some drawbacks, one main one being that since Ruby is an Interpreted scripted language its speed and performance is slower compared to other languages. Also being a newer language, it can be hard to find good documentation and resources on Ruby for learning and using the language. (link 3) 
 
+  [LINK 1](https://www.geeksforgeeks.org/comparing-ruby-programming-languages/)
+  [LINK 2](https://www.ruby-lang.org/en/about/)
+  [LINK 3](https://ruby-lang.co/what-are-the-disadvantages-of-ruby/)
 
-  LINK 1 https://www.freecodecamp.org/news/the-advantages-and-disadvantages-of-javascript/
-  Link 2 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
-  LINK 3 https://www.freecodecamp.org/news/the-advantages-and-disadvantages-of-javascript/
   ### JavaScript
    Javascript is a programming language enabling a webpage to do more than just sit and display information to the user.  It enables the coder to implement complex features on a webpage, filling the role of the third layer in standard web technologies, namely HTML, CSS and JavaScript completing the cake. JavaScript can create dynamically updating content, control multimedia, animate images and more.(LINK 2) The core advantages of JavaScript are its speed as client-side JavaScript is very fast as it can be run immediately with the browser, it is also very popular as it is used widely on the web, which means there are a lot of resources available for learning and using JavaScript. The interoperability (the ability of computer systems or software to exchange and make use of
    information) of JavaScript is an advantage is it can be inserted into any web page. JavaScript also has a reduced server load as it is a client-side language. Another key benefit is its versatility as it interacts well with other languages. Some of the drawbacks of JavaScript are its security, as it is client-side it can exploit the user’s system and malicious code can then be executed on the user’s machine. Another disadvantage is browser support for JavaScript as different browsers can interpret the code differently than others which can result in inconsistency with the interface. However, this can be avoided in part as long as testing is done on the different browsers to ensure a uniform output.  (Link 3)
+
+  [LINK 1](https://www.freecodecamp.org/news/the-advantages-and-disadvantages-of-javascript/)
+  [Link 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+  [LINK 3](https://www.freecodecamp.org/news/the-advantages-and-disadvantages-of-javascript/)
 
 
 ## Q7 Identify TWO ethical issues from the areas below and discuss the extent to which an IT professional is ethically responsible in terms of the issue.
@@ -229,6 +257,23 @@ With many Companies like Apple and Google expanding their computer product range
 ## Q14 Demonstrate your algorithmic thinking through completing the following two tasks, in order:
   ### i. Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive). Your flowchart should make use of standard conventions for flowcharts to indicate processes, tasks, actions, or operations  
   ### ii. Write pseudocode for the process outlined in your flowchart
+
+![flow_chart](https://github.com/Shelby219/T1A1_workbook/blob/master/docs/Flowchart.pdf "flow_chart")
+###Psuedo Code
+    
+    Method prime_checker
+    numbers equals array of 2 til 100
+        iterate each number between 2 and 100 which is nums
+            iterate between 2 and nums which is no  
+                if nums Modulus no remainder equals 0 and no notequal to nums
+                    then delete from numbers array (nums)
+                    break when array is finished iterated
+                end
+              end
+              puts the numbers array which shows all primes leftover (using each method means just a side effect array)
+            end
+
+    call prime_checker method
 
 
 ## Q15 Write pseudocode OR Ruby code for the following problem:
