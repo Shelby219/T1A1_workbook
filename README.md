@@ -260,7 +260,8 @@ This class holds an object made up of a sequence of characters. This could consi
 
 ### Arrays 
 An array is an ordered collection that uses integers as its index. This indexing starts at 0.  It is a collection of objects where they are stored in memory location one after the other.
-new_arr = Array.new 
+
+    new_arr = Array.new 
 
 ### Hashes 
 Hashes are a list data structure that is similar to an array, however each value has a key. Each key must also be unique. A hash can be likened to a dictionary collection of unique keys and their values. While arrays are integer indexed, hashes can be indexed with objects of any types.
@@ -287,19 +288,18 @@ A symbol is an object representing names inside Ruby.  It is just representing t
 [Reference Symbol](https://ruby-doc.org/core-2.7.1/Symbol.html)
 
 ## Q11 Here’s the problem: “There is a restaurant serving a variety of food. The customers want to be able to buy food of their choice. All the staff just quit, how can you build an app to replace them?”>
-  ### - Identify the classes you would use to solve the problem
-  ### - Write a short explanation of why you would use the classes you have identified
+
  
-  #### Menu Item Class
+  ### Menu Item Class
     To initialize the menu items and needed instance variables, this would mean the @item, @price @description
 
-  #### Order Class Inheriting from Menu Item for creating new orders
+  ### Order Class Inheriting from Menu Item for creating new orders
     To create new foods/drinks inheriting from the menu item class as each would have the same instance variables. So, when new foods/drinks are created new menu items objects are created and a new order object is created using the menu items. So once the menu item objects are created then can then be used in future, also being able to change the description using instance method, in case someone orders the same object with slight adjustments. 
     Eg.
     menu1 = MenuItem.new (item, price, description)
     order1 = Order.new (menu1,…etc)
     This class is useful to as if an order history is needed, the orders class objects will hold this information. 
-  #### Restaurant Module with functional Methods for the order process
+  ### Restaurant Module with functional Methods for the order process
     To house the primary methods for the order collecting process. With the gets methods collecting data. 
     Eg.
     What would like to order? Etc….
@@ -343,11 +343,10 @@ A symbol is an object representing names inside Ruby.  It is just representing t
 
 ## Q14 Demonstrate your algorithmic thinking through completing the following two tasks, in order:
   ### i. Create a flowchart to outline the steps for listing all prime numbers between 1 and 100 (inclusive). Your flowchart should make use of standard conventions for flowcharts to indicate processes, tasks, actions, or operations  
-  ### ii. Write pseudocode for the process outlined in your flowchart
 
 Flow Chart can be found [here](https://github.com/Shelby219/T1A1_workbook/blob/master/docs/Flowchart.pdf "flow_chart").
 
-### Psuedo Code 
+  ### ii. Write pseudocode for the process outlined in your flowchart
     
     Method prime_checker
     numbers equals array of 2 til 100
@@ -380,8 +379,6 @@ Flow Chart can be found [here](https://github.com/Shelby219/T1A1_workbook/blob/m
     else
         puts "It’s warm and raining"
     end
-
-
 
 
 
