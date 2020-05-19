@@ -39,23 +39,23 @@ With many Companies like Apple and Google expanding their computer product range
   [Link 12](https://www.csiro.au/en/Research/Technology/Telecommunications/Wireless-LAN)
 
 
-## Q2 Define the features of the following technologies that are essential in terms of the development of the internet:
+## Q2 Define the features of the following technologies that are essential in terms of the development of the internet: Explain how each technology has contributed to the development of the internet.
   ### - packets
   
-  A packet is a small amount of data sent over a network. In the early history of the internet, there was a need to share information over vast distances without the use of individual phone connections between each computer. “Packet Switching” satisfied this need as these packets can travel independently over any circuit to the pointed destination. Packets are simply small collections of digital information broken off from a larger source, transmitted separately on the route and accurately reassembled by the modem on the other side. (Link 1, Screen Shot 1 and Link 2, Screen Shot 1)
+  A packet is a small amount of data sent over a network. In the early history of the internet, there was a need to share information over vast distances without the use of individual phone connections between each computer. “Packet Switching” satisfied this need as these packets can travel independently over any circuit to the pointed destination. Packets are simply small collections of digital information broken off from a larger source, transmitted separately on the route and accurately reassembled by the modem on the other side. (Link 1, Screen Shot 1 and Link 2, Screen Shot 1). Packets were at the the core of the development of the internet with ARPANET pioneering the packet switching network, kickstarting the internets beginning.
 
   [Link 1](https://www.britannica.com/technology/Internet#ref733575) 
   [Link 2](https://www.britannica.com/topic/ARPANET/A-packet-of-data) 
 
   ### - IP addresses (IPv4 and IPv6)
  
-  Internet Protocol Address also known as IP address is a numerical label used to identify each computer on the Internet. IPv4 was deployed in 1983 and maintains a 32-bit protocol standard and is still the most commonly used version. IPv4 addresses are 32-bit numbers expressed as 4 octets in “dotted decimal” system. IPv6 was deployed in 1999 to fulfil the need for more Internet addresses and are 128-bit numbers conventionally separated by colons.
+  Internet Protocol Address also known as IP address is a numerical label used to identify each computer on the Internet. IPv4 was deployed in 1983 and maintains a 32-bit protocol standard and is still the most commonly used version. IPv4 addresses are 32-bit numbers expressed as 4 octets in “dotted decimal” system. IPv6 was deployed in 1999 to fulfil the need for more Internet addresses, which is further proof of the massive growth of the internet, and are 128-bit numbers conventionally separated by colons. 
 
    [Link 3](https://www.guru99.com/difference-ipv4-vs-ipv6.html)
    [Link 4](https://www.iana.org/numbers)
 
   ### - routers and routing
-  The initial idea for a router, which at first was called a gateway, was the notion of connecting different computer networks. A router is a device for networking, essentially it a small computer itself, it analyses the header of the data packet destination IP address, calculates the best way for it to reach the destination then forwards the data packet between different computer networks.
+  The initial idea for a router, which at first was called a gateway, was the notion of connecting different computer networks. It came about for packets to be able to be switched between networks. A router is a device for networking, essentially it a small computer itself, it analyses the header of the data packet destination IP address, calculates the best way for it to reach the destination then forwards the data packet between different computer networks. 
   Routing is the establishing of the routes that the data packets take to their particular destination, done by the router checking its routing table which is marked with a set of routing rules (algorithms and protocols) used to determine the most optimal path to reach the destination. 
 
   [Link 5](https://searchnetworking.techtarget.com/definition/router)
@@ -67,9 +67,6 @@ With many Companies like Apple and Google expanding their computer product range
 
   [Link 7](https://www.britannica.com/technology/domain-name)
   [Link 8](https://www.crazydomains.com.au/learn/components-domain-name/)
-
-### Explain how each technology has contributed to the development of the internet.
-
 
 
 ## Q3 Define the features of the following technologies that are essential in terms of the development of the internet:
@@ -186,7 +183,7 @@ With many Companies like Apple and Google expanding their computer product range
   Not complying with the particular OSS license requirements could result in legal action taken by the OSS licensors, negative reviews and feedback from the situation, and an overall reputation impact. Especially if this happens more than once, a business known for not taking correct compliance procedures could result in the customer base declining. 
 
   HWL Ebsworth Lawyers have stated that this issue is of upmost importance, and the potential complexities involved with using OSS, they recommend the issue of licensing be incorporated with the software development process. This would ensure compliance for the OSS is fully covered for each OSS component used, rather than backtracking with the possibility of missing anything.
-   
+
   If a business is using OSS extensive and regularly, ultimately proper legal advice from the correct legal professionals is needed on an ongoing basis and correct reviews and updates in place.  
 
   [Link 1](http://www.apache.org/licenses/LICENSE-2.0)
